@@ -17,3 +17,11 @@
 >*git diff* - увидеть разницу между текущим файлом и закоммиченным файлом
 
 [ссылка на краткое руководство](https://netology-code.github.io/guides/git-terminal/git-terminal.html)
+
+Основные команды 3-го семинара
+
+*git remote add origin https://github.com/argale86/git-seminar-3.git* - присвоение удалённому репозиторию псевдонима origin
+
+*git branch -M main* - создание ветки main в удалённом репозитории
+
+*git push -u origin main* - перенесение содержимого локального репозитория в удалённый
